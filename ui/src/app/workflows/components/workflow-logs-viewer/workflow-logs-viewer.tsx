@@ -1,7 +1,7 @@
 import * as React from 'react';
 import {useContext, useEffect, useState} from 'react';
 
-import {Autocomplete} from 'argo-ui';
+import {Autocomplete} from '../../../../legacy-ui';
 import {Observable} from 'rxjs';
 import {map, publishReplay, refCount} from 'rxjs/operators';
 import * as models from '../../../../models';

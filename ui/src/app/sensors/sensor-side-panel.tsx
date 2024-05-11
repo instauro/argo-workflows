@@ -1,4 +1,4 @@
-import {SlidingPanel, Tabs} from 'argo-ui';
+import {SlidingPanel, Tabs} from '../../legacy-ui';
 import * as React from 'react';
 import {useState} from 'react';
 import {Sensor} from '../../models';

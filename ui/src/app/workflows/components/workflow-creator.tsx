@@ -1,4 +1,4 @@
-import {Select} from 'argo-ui/src/components/select/select';
+import {Select} from '../../../legacy-ui/src/components/select/select';
 import * as React from 'react';
 import {useEffect, useState} from 'react';
 

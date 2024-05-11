@@ -1,4 +1,4 @@
-import {Page, SlidingPanel, Ticker} from 'argo-ui';
+import {Page, SlidingPanel, Ticker} from '../../legacy-ui';
 import * as React from 'react';
 import {useContext, useEffect, useState} from 'react';
 import {Link, RouteComponentProps} from 'react-router-dom';

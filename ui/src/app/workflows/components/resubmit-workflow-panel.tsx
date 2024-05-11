@@ -1,4 +1,4 @@
-import {Checkbox} from 'argo-ui';
+import {Checkbox} from '../../../legacy-ui';
 import React, {useContext, useState} from 'react';
 import {Parameter, ResubmitOpts, Workflow} from '../../../models';
 import {Context} from '../../shared/context';

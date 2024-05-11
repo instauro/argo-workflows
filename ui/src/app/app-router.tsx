@@ -1,4 +1,4 @@
-import {Layout, Notifications, NotificationsManager, NotificationType, Popup, PopupManager, PopupProps} from 'argo-ui';
+import {Layout, Notifications, NotificationsManager, NotificationType, Popup, PopupManager, PopupProps} from '../legacy-ui';
 import * as H from 'history';
 
 import * as React from 'react';

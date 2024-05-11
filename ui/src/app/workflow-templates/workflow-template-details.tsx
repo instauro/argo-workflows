@@ -1,5 +1,5 @@
-import {NotificationType, Page} from 'argo-ui';
-import {SlidingPanel} from 'argo-ui/src/index';
+import {NotificationType, Page} from '../../legacy-ui';
+import {SlidingPanel} from '../../legacy-ui/src/index';
 import * as React from 'react';
 import {useContext, useEffect, useState} from 'react';
 import {RouteComponentProps} from 'react-router';

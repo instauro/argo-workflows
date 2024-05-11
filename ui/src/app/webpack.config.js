@@ -77,7 +77,7 @@ const config = {
         new CopyWebpackPlugin({
             patterns: [
                 {
-                    from: 'node_modules/argo-ui/src/assets',
+                    from: '../ui/src/legacy-ui/src/assets',
                     to: 'assets'
                 },
                 {

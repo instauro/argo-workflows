@@ -1,4 +1,4 @@
-import {Select} from 'argo-ui';
+import {Select} from '../../../legacy-ui';
 import React, {useContext, useMemo, useState} from 'react';
 import {Parameter, Template} from '../../../models';
 import {Context} from '../../shared/context';

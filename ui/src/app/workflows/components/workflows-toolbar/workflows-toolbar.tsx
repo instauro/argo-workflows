@@ -1,4 +1,4 @@
-import {NotificationType} from 'argo-ui';
+import {NotificationType} from '../../../../legacy-ui';
 import * as React from 'react';
 import {useContext, useMemo} from 'react';
 

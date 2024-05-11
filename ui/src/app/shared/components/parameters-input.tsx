@@ -1,4 +1,4 @@
-import {Select, Tooltip} from 'argo-ui';
+import {Select, Tooltip} from '../../../legacy-ui';
 import React from 'react';
 
 import {Parameter} from '../../../models';

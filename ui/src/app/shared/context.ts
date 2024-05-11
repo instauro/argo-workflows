@@ -1,4 +1,4 @@
-import {AppContext as ArgoAppContext, NavigationApi, NotificationsApi, PopupApi} from 'argo-ui';
+import {AppContext as ArgoAppContext, NavigationApi, NotificationsApi, PopupApi} from '../../legacy-ui';
 import {History} from 'history';
 import * as React from 'react';
 

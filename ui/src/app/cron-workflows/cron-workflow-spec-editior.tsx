@@ -1,4 +1,4 @@
-import {Checkbox, Select} from 'argo-ui';
+import {Checkbox, Select} from '../../legacy-ui';
 import * as React from 'react';
 
 import {ConcurrencyPolicy, CronWorkflowSpec} from '../../models';

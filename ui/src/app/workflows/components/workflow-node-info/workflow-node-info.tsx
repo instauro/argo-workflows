@@ -1,4 +1,4 @@
-import {Tabs, Ticker, Tooltip} from 'argo-ui';
+import {Tabs, Ticker, Tooltip} from '../../../../legacy-ui';
 import moment from 'moment';
 import * as React from 'react';
 import {useState} from 'react';

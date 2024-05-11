@@ -1,8 +1,8 @@
 import * as React from 'react';
 import {useEffect, useRef, useState} from 'react';
 
-import {LogsViewer} from 'argo-ui';
-import {LogsViewerProps} from 'argo-ui/src/components/logs-viewer/logs-viewer';
+import {LogsViewer} from '../../../../legacy-ui';
+import {LogsViewerProps} from '../../../../legacy-ui/src/components/logs-viewer/logs-viewer';
 
 import './workflow-logs-viewer.scss';
 

@@ -1,4 +1,4 @@
-import {NotificationType, Page} from 'argo-ui';
+import {NotificationType, Page} from '../../legacy-ui';
 import * as React from 'react';
 import {useContext, useEffect, useState} from 'react';
 import {RouteComponentProps} from 'react-router';

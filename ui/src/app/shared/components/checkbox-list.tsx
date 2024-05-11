@@ -1,4 +1,4 @@
-import {Checkbox} from 'argo-ui/src/components/checkbox';
+import {Checkbox} from '../../legacy-ui/src/components/checkbox';
 import * as React from 'react';
 
 export const CheckboxList = ({onChange, values}: {values: {[label: string]: boolean}; onChange: (label: string, checked: boolean) => void}) => (

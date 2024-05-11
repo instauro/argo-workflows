@@ -1,4 +1,4 @@
-import * as kubernetes from 'argo-ui/src/models/kubernetes';
+import * as kubernetes from '../../legacy-ui/src/models/kubernetes';
 import * as React from 'react';
 
 import {CronWorkflowSpec, CronWorkflowStatus} from '../../models';

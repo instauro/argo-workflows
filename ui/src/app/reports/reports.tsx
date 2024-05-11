@@ -1,4 +1,4 @@
-import {Page} from 'argo-ui/src/index';
+import {Page} from '../../legacy-ui/src/index';
 import {ChartOptions} from 'chart.js';
 import 'chartjs-plugin-annotation';
 import * as React from 'react';

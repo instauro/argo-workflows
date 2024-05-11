@@ -1,4 +1,4 @@
-import {Page, SlidingPanel, Tabs} from 'argo-ui';
+import {Page, SlidingPanel, Tabs} from '../../legacy-ui';
 import {useContext, useEffect, useState} from 'react';
 import * as React from 'react';
 import {RouteComponentProps} from 'react-router-dom';

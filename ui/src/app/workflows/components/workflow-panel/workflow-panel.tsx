@@ -1,4 +1,4 @@
-import {ObjectMeta} from 'argo-ui/src/models/kubernetes';
+import {ObjectMeta} from '../../legacy-ui/src/models/kubernetes';
 import * as React from 'react';
 import {WorkflowStatus} from '../../../../models';
 import {Notice} from '../../../shared/components/notice';

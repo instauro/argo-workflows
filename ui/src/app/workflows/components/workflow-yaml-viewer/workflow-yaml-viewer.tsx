@@ -1,4 +1,4 @@
-import {SlideContents} from 'argo-ui';
+import {SlideContents} from '../../../../legacy-ui';
 import * as React from 'react';
 
 import * as models from '../../../../models';

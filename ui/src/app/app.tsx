@@ -1,4 +1,4 @@
-import {NavigationManager, NotificationsManager, PopupManager} from 'argo-ui';
+import {NavigationManager, NotificationsManager, PopupManager} from '../legacy-ui';
 
 import {createBrowserHistory} from 'history';
 import * as React from 'react';

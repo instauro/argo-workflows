@@ -1,5 +1,5 @@
 import * as React from 'react';
-import {Tabs} from 'argo-ui';
+import {Tabs} from '../../legacy-ui';
 
 import {EventSource} from '../../models';
 import {MetadataEditor} from '../shared/components/editors/metadata-editor';

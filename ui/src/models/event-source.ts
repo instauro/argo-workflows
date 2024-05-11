@@ -1,4 +1,4 @@
-import * as kubernetes from 'argo-ui/src/models/kubernetes';
+import * as kubernetes from '../../legacy-ui/src/models/kubernetes';
 import {Condition} from './workflows';
 
 export interface EventSource {

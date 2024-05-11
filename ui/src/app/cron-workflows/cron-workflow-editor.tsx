@@ -1,5 +1,5 @@
 import * as React from 'react';
-import {Tabs} from 'argo-ui';
+import {Tabs} from '../../legacy-ui';
 
 import {CronWorkflow} from '../../models';
 import {LabelsAndAnnotationsEditor} from '../shared/components/editors/labels-and-annotations-editor';

@@ -1,4 +1,4 @@
-import {Checkbox} from 'argo-ui';
+import {Checkbox} from '../../../legacy-ui';
 import classNames from 'classnames';
 import * as React from 'react';
 

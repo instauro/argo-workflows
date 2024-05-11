@@ -1,4 +1,4 @@
-import {Page} from 'argo-ui';
+import {Page} from '../../legacy-ui';
 import * as React from 'react';
 import {useEffect, useState} from 'react';
 
